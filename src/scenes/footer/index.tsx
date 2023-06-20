@@ -28,7 +28,7 @@ const Footer = () => {
       <div>
       <div
       className="flex justify-center py-3 mt-8 text-gray-800 border-t border-stone-300">
-        <div>
+        <div className="text-center px-3">
           Made by
           <a
             href="https://github.com/AshishBarvaliya"
